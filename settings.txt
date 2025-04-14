@@ -1,0 +1,5 @@
+--login=<YOUR_LOGIN>
+--no-metadata-json
+--no-captions
+--no-iphone
+--abort-on=400,401,403,404,429
